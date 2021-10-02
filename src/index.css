@@ -1,0 +1,20 @@
+@import url("https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css");
+body {
+  margin: 0;
+  font-family: "Noto Sans", sans-serif;
+  background-color: #71ccca;
+  color: #001f3f;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.grid {
+  margin: 100px 0 0;
+}
+
+a {
+  text-decoration: none;
+  color: #001f3f;
+}
