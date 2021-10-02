@@ -11,7 +11,7 @@ export default function Header() {
         </div>
         <div className="header-button">
           <a
-            href="https://github.com"
+            href="https://github.com/sandy-50/xpenser"
             target="_blank"
             //   studdy about no opener and no referre
             rel="noopener noreferrer"
