@@ -24,7 +24,7 @@ export default function ExpenseList() {
       />
 
       {filteredList.length > 0 ? (
-        filteredList.map((item) => {
+        filteredList .map((item) => {
           return <Card item={item} notifySucces={notifySucces} />;
         })
       ) : (

@@ -14,7 +14,7 @@ function App() {
         <Route path="/add-expense" component={AddExpense} />
       </Switch>
 
-      <Footer />
+      {/* <Footer /> */}
     </Router>
   );
 }
